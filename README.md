@@ -1,2 +1,2 @@
-# Linear_Regression_via_Gradient_Descent
+# Linear Regression via Gradient Descent
 Implement Linear Regression through Gradient Descent technique
